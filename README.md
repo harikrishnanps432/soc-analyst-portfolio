@@ -17,5 +17,5 @@ Based in Kerala, India
 - Practice: TryHackMe
 
 # Contact
-- Email: your@email.com
-- LinkedIn: your-linkedin-url
+- Email: harikrishnanps234@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hari-krishnan-84b6533a7?
