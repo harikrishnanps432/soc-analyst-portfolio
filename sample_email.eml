@@ -1,0 +1,15 @@
+From: Microsoft Security <security-alert@example.com>
+To: analyst@example.com
+Subject: Urgent: Verify your account immediately
+Authentication-Results: spf=fail; dkim=fail; dmarc=fail
+Content-Type: text/plain
+
+Dear user,
+
+Your account has been suspended. Please click here to verify your account:
+http://secure-account-example.com/login
+
+Failure to verify your password will result in permanent suspension.
+
+Regards,
+Security Team
